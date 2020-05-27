@@ -210,3 +210,5 @@
 ## [test](https://github.com/TheAlgorithms/Java/blob/master//test.java)
 
 ## [test1](https://github.com/TheAlgorithms/Java/blob/master//test1.java)
+
+## [test2](https://github.com/TheAlgorithms/Java/blob/master//test2.java)
